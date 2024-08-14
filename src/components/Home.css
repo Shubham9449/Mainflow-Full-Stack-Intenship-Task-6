@@ -1,0 +1,14 @@
+.homepage {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background-color: #e9ecef;
+  }
+  
+  .homepage h1 {
+    color: #495057;
+    font-size: 24px;
+  }
+  
